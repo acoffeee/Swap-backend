@@ -19,3 +19,4 @@ stuff i want to add but i have no clue the consequencces
 3. user look up
 4. list of the above stats, not just a limited number
 5. idk 
+6. ability to opt out of certian user stats and comparisions
