@@ -12,3 +12,10 @@ users
 5. wathcing the longest
 6. watching the least.
 open to rec
+
+stuff i want to add but i have no clue the consequencces
+1. se33arch engine to do otehr less important stuff
+2. user comparision
+3. user look up
+4. list of the above stats, not just a limited number
+5. idk 
